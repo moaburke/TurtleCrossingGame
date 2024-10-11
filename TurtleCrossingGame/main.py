@@ -85,7 +85,7 @@ def move_turtle_backward():
     """
     if not game_over_state:
         player.move_backward()
-
+        
 
 # Set up the screen for the game
 screen = Screen()

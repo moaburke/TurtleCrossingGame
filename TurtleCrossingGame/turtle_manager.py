@@ -111,3 +111,4 @@ class TurtleManager(Turtle):
         self.speed = STARTING_MOVE_DISTANCE
         # Reset the turtle spawn rate to the starting value
         self.spawn_rate = STARTING_SPAWN_RATE
+        

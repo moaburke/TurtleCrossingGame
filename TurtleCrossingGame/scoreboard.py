@@ -116,3 +116,4 @@ class Scoreboard(Turtle):
         self.write("Press Space to restart", align=ALIGNMENT, font=FONTS["medium"])  # Write the restart message
         self.setposition(*POSITIONS["exit_game"])  # Position the exit game message
         self.write("Press Esc to exit game", align=ALIGNMENT, font=FONTS["small"])  # Write the exit game message
+        

@@ -60,3 +60,4 @@ class Player(Turtle):
         """
         if self.ycor() > FINISH_LINE_Y: # Checks if the player's y-coordinate is above the finish line
             return True # Return False if the player has not crossed
+
